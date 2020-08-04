@@ -1,7 +1,7 @@
 ![image](https://github.com/Duffy617/AI-for-Medical-Treatment/blob/master/Compute%20GRADCAM.png)<br />
-【AI-for-Medical-Treatment】
+# 【**AI-for-Medical-Treatment**】
 
-★Project1:Estimating Treatment Effect Using Machine Learning <br />
+## ★Project1:Estimating Treatment Effect Using Machine Learning <br />
 
 1. Aanalyzing data from a randomized control trial using both: <br />
 -Traditional statistical methods and the more recent machine learning techniques <br />
@@ -15,7 +15,7 @@
 4. Interpreting ML models for Treatment Effect Estimation <br />
 -Implement T-learner <br />
 
-★Project2:Natural Language Entity Extraction <br />
+## ★Project2:Natural Language Entity Extraction <br />
 
 1. Extracting disease labels from clinical reports <br />
 -Text matching <br />
@@ -26,7 +26,7 @@
 -Preprocessing text for input <br />
 -Extracting answers from model output <br />
 
-★Project3:ML Interpretation <br />
+## ★Project3:ML Interpretation <br />
 
 1. Interpreting Deep Learning Models <br />
 -Understanding output using GradCAMs <br />
